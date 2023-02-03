@@ -1,9 +1,14 @@
 reviewers:
   # The default reviewers
   defaults:
-    # - repository-owners # group
+    - repository-owners # group
     # - octocat # username
-    - team: Approvers # GitHub team
+    # - team: Approvers # GitHub team
+    
+groups:
+    repository-owners:
+      - mudpat # username
+      - mudpat-out # username
 
 options:
   ignore_draft: true
