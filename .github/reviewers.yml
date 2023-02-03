@@ -7,8 +7,8 @@ reviewers:
     
 groups:
     repository-owners:
-      - mudpat # username
-      - mudpat-out # username
+      - @mudpat # username
+      - @mudpat-out # username
 
 options:
   ignore_draft: true
