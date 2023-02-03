@@ -1,8 +1,8 @@
 reviewers:
   # The default reviewers
   defaults:
-    - repository-owners # group
-    - octocat # username
+    # - repository-owners # group
+    # - octocat # username
     - team: Approvers # GitHub team
 
 options:
